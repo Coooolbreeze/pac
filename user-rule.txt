@@ -1,7 +1,8 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
 
-@@||8.209.196.116
+@@||8.216.1.201
+@@||182.254.116.116
 
 !microsoft
 @@||s-microsoft.com
@@ -29,11 +30,20 @@
 @@||icloud.com
 
 !steam
-@@||steamstatic.com
 @@||steampowered.com
+@@||steamstatic.com
 @@||steam-chat.com
 @@||gstatic.com
 @@||akamaihd.net
 
 @@||1password.com
 @@||1passwordservices.com
+@@||scorecardresearch.com
+@@||cdntips.net
+
+@@||laoyuegou.com
+
+@@||sonkwo.cn
+@@||sonkwo.hk
+
+@@||postman.com
